@@ -2,7 +2,7 @@
 
 Protótipo de interação do **GarimpUSP**, plataforma de compra e venda entre estudantes da USP com validação de matrícula, desenvolvido para a disciplina PRG0005 · Fundamentos em Empreendedorismo (2026), Entrega 5. Autoria do protótipo: Bianca Dip Façanário.
 
-**Acesse:** https://markvrllo.github.io/garimpusp-prototipo-a/
+**Acesse:** [https://markvrllo.github.io/garimpusp-prototipo-a/](https://markvrllo.github.io/garimpusp-prototipo-a/)
 
 ## O que esta versão mostra
 
